@@ -11,8 +11,8 @@
 
 
 <div>
-  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=ohenriqueeduardo&show_icons=true&theme=dracula">
-  <img align="top" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriqueeduardo&layout=donut&theme=dracula"/">
+  <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=ohenriqueeduardo&show_icons=true&theme=dark">
+  <img align="top" height="100cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohenriqueeduardo&layout=donut&theme=dark"/">
 </div>
 
 
